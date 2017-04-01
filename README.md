@@ -11,6 +11,6 @@ Required library
 5. sqljdbc4.jar
 6. JDK library (which comes default with any JDK)
 
-IDE
-NetBeans
-SQL Management Studio
+IDE<br />
+_NetBeans
+_SQL Management Studio
