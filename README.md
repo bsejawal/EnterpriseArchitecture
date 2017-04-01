@@ -10,3 +10,7 @@ Required library
 4. EclipseLink(JPA 2.1) org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar
 5. sqljdbc4.jar
 6. JDK library (which comes default with any JDK)
+
+IDE
+.NetBeans
+.SQL Management Studio
