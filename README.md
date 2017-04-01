@@ -1,4 +1,4 @@
-# EnterpriseArchitecture(EA)
+# EnterpriseArchitecture(EA - CS544DE)
 Author : Bhesh Sejawal
 
 Java EE with JPA and MSSQL 
