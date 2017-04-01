@@ -1,4 +1,4 @@
-# EnterpriseArchitecture
+# EnterpriseArchitecture(EA)
 Author : Bhesh Sejawal
 
 Java EE with JPA and MSSQL 
