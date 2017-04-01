@@ -12,5 +12,5 @@ Required library
 6. JDK library (which comes default with any JDK)
 
 IDE
- NetBeans
- SQL Management Studio
+NetBeans
+SQL Management Studio
